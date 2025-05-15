@@ -1,2 +1,2 @@
 # git_test
-Just learning git basics
+Learning git 
